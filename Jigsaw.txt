@@ -1,0 +1,10 @@
+SelectAll:
+Duplicate:
+SelectTracks:Mode="Set" Track="0"
+ChangePitch:Percentage="-20" SBSMS="0"
+Phaser:Depth="100" DryWet="128" Feedback="0" Freq="0.4" Gain="-6" Phase="0" Stages="2"
+SelectTracks:Mode="Set" Track="1"
+ChangePitch:Percentage="-26" SBSMS="0"
+Reverse:Use_Preset="<Factory Defaults>"
+Phaser:Depth="100" DryWet="128" Feedback="0" Freq="0.4" Gain="-6" Phase="0" Stages="2"
+Reverse:Use_Preset="<Factory Defaults>"
