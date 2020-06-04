@@ -1,0 +1,7 @@
+ChangePitch:Percentage="5.9463094" SBSMS="0"
+Compressor:AttackTime="0.2" NoiseFloor="-40" Normalize="1" Ratio="2" ReleaseTime="1" Threshold="-18" UsePeak="0"
+FilterCurve:Use_Preset="Factory Preset:Bass Boost"
+FilterCurve:Use_Preset="Factory Preset:Treble Boost"
+Limiter:gain-L="0" gain-R="0" hold="10" makeup="No" thresh="-3" type="HardLimit"
+Normalize:ApplyGain="1" PeakLevel="-1" RemoveDcOffset="1" StereoIndependent="0"
+ChangeTempo:Percentage="25" SBSMS="0"
